@@ -1,4 +1,4 @@
-# Gesture-controlled-computer-using-Arduino-and-Python #
+# Gesture-controlled-Media Player-using-Arduino-and-Python #
 
 ## The program code files are 100% working, the similar projects that are available over internet has buggy and non working codes, Use the the code files added in the repo, if any queries regarding the codes or project contact at sumitjirwankar22@gmail.com ##
 
